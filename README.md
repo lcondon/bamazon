@@ -2,6 +2,6 @@
 
 ## Clone repository
 
--`npm install`
--`node bamazonCustomer`
--`node bamazonManager`
+- `npm install`
+- `node bamazonCustomer`
+- `node bamazonManager`
